@@ -1,10 +1,12 @@
 # Konichiwa 👋
-<!-- "Hero" Header -->
-<div align="center">
-  Profile" />
-  <br />
-  <br />
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 </div>
 
 <div align="center">
