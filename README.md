@@ -2,6 +2,29 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
