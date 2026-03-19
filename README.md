@@ -80,6 +80,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 
 
 
